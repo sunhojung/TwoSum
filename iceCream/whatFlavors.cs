@@ -16,6 +16,7 @@ using System;
 namespace IceCream
 {
     /*search problem from hackerrank.com
+     https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
      input: total money available and an array of ice cream costs,
      this function finds 2 distinct ice cream flavours that spends the total amount of money available.
      
